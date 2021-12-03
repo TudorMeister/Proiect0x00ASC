@@ -9,5 +9,8 @@ Ordinea argumentelor in linia de comanda:
 
 Ex:
 python encrypt.py cheie98319 input.txt outputBinar
+
 python decrypt.py cheie98319 outputBinar inputRecuperat.txt
+
+
 Toate fisierele text trebuie sa fie in encoding UTF-8
