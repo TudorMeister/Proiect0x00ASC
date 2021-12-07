@@ -14,3 +14,5 @@ python decrypt.py cheie98319 outputBinar inputRecuperat.txt
 
 
 Toate fisierele text trebuie sa fie in encoding UTF-8
+
+Cheia echipei IVG: IVGoaealonir15
